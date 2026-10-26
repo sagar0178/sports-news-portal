@@ -1,0 +1,10 @@
+title: "Apex Sports Hub - Football & Cricket News"
+description: "Automated daily football and cricket updates and news."
+baseurl: ""
+url: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
